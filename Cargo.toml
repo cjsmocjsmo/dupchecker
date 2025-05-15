@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 opencv = "0.94.4"
 md5 = "0.7.0"
+walkdir = "2.4.0"
